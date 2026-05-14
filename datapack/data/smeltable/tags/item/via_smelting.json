@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "#minecraft:leaves",
     "#minecraft:logs_that_burn",
     "#minecraft:smelts_to_glass",
     "minecraft:ancient_debris",
